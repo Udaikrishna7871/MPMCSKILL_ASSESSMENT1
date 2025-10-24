@@ -71,6 +71,8 @@ MANUAL CALCULATIONS
 
 
 
+
+
 <img width="610" height="439" alt="image" src="https://github.com/user-attachments/assets/dfe76fa2-8039-4fda-80c3-2fb1550bd9ad" />
 
 ---
